@@ -68,8 +68,7 @@ Linux (WSL · VMs · Containers) · On-Prem · OCI · AWS
 
 - Oracle Database Administration Essentials — Oracle Academy  
 - SQL para Análise de Dados — Alura 
-- Power BI para Negócios — Alura  
-- Formação Engenharia de Dados: Primeiros Passos — Alura 
+- Power BI para Negócios — Alura   
 
 ---
 
